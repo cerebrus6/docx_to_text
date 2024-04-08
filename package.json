@@ -1,0 +1,14 @@
+{
+  "name": "docx_to_text",
+  "version": "1.0.0",
+  "description": "convert docx to text of current directory",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cerebrus6",
+  "license": "ISC",
+  "dependencies": {
+    "mammoth": "^1.7.1"
+  }
+}
